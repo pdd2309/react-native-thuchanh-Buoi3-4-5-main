@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "681420851444",
+    "project_id": "threact3",
+    "storage_bucket": "threact3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681420851444:android:4fe785192e99296e8e76a1",
+        "android_client_info": {
+          "package_name": "com.mynewapp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg6grCp1MZTzOztjjcK4rA2zYsBuKMgNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
